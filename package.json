@@ -1,6 +1,7 @@
 {
     "name": "typescript-node-starter",
     "main": "dist/index.js",
+    "license": "MIT",
     "scripts": {
         "build": "tsc",
         "start": "node ./dist/index.js",
