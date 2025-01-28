@@ -4,7 +4,7 @@
     "license": "MIT",
     "scripts": {
         "build": "tsc",
-        "start": "node ./dist/index.js",
+        "start": "node ./build/index.js",
         "dev": "tsc -w",
         "lint": "eslint .",
         "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\""
