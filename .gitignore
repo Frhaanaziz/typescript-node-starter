@@ -2,7 +2,7 @@
 /node_modules
 
 # Ignore built ts files
-/dist
+/build
 
 # OS metadata
 .DS_Store
